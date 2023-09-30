@@ -1,6 +1,6 @@
 # graph-negative-cycles
 
-The project is supported by the article [Algorithmic Alchemy: Exploiting Graph Theory in the Foreign Exchange](https://github.com/optiklab/path-algorithms-on-a-grid-map/wiki).
+The project is supported by the article [Algorithmic Alchemy: Exploiting Graph Theory in the Foreign Exchange](https://github.com/optiklab/negative-cycles-in-a-graph/wiki/Algorithmic-Alchemy:-Exploiting-Graph-Theory-in-the-Foreign-Exchange).
 
 It contains examples of running the Bellman-Ford algorithm that allows to find a path between two nodes in the graph that meet two essential criteria:
 - Graph nodes contain negative weights 
